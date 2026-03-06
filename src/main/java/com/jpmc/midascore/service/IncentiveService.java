@@ -1,7 +1,7 @@
 package com.jpmc.midascore.service;
 
 import com.jpmc.midascore.foundation.Transaction;
-import com.jpmc.midascore.model.Incentive;
+import com.jpmc.midascore.foundation.Incentive;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

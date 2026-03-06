@@ -1,4 +1,4 @@
-package com.jpmc.midascore.model;
+package com.jpmc.midascore.foundation;
 
 public class Incentive {
 
